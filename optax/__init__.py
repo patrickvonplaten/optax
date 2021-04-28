@@ -171,6 +171,7 @@ __all__ = (
     "DifferentiallyPrivateAggregateState",
     "ema",
     "EmaState",
+    "EmptyState",
     "exponential_decay",
     "fisher_diag",
     "flatten",
